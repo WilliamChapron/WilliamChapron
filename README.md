@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DirectX12 Game Engine & Unreal Engine 5 project](williamdeveloper.com)
 
-- 🌱 I’m currently learning **various graphics API & games environnement**
+- 🌱 I’m currently learning **various graphics API &  2D/3d games environnement**
 
 - 👯 I’m looking for **UI/UX designer & front-end developer**
 
