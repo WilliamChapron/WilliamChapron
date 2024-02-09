@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [DirectX12 Game Engine & Unreal Engine 5 project](williamdeveloper.com)
 
-- 🌱 I’m currently learning **various graphics API &  2D/3d games environnement**
+- 🌱 I’m currently learning **various graphics API & 2D/3D games environnement**
 
 - 👯 I’m looking for **UI/UX designer & front-end developer**
 
 - 👨‍💻 All of my projects are available at [williamdeveloper.com](williamdeveloper.com)
 
-- 💬 Ask me about **React, Express, Js, C++**
+- 💬 Ask me about **C++, React, Express, Js, C#**
 
 - 📫 How to reach me **williamchapronpro@gmail.com**
 
