@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm William Developer</h1>
 <h3 align="center">A passionate Generalist developer from France</h3>
 
-- 🌱 I’m currently learning **various graphics API & 2D/3D games environnement**
+- 💬 Ask me about **C/C++, C#, Javascript, Game Developement, Software Developement, Web Developement**
+  
+- 🖥️ I’m currently learning **various graphics 2D/3D environnement for 3D Application & Games Developement**
+
+- 🌐 I also create Desktop and Web Applications with **.NET Framework and Electron**
 
 - 👯 I’m looking for **UI/UX designer & front-end developer**
 
 - 👨‍💻 All of my projects are available at [williamdeveloper.com](williamdeveloper.com)
 
-- 💬 Ask me about **C/C++, C#, Javascript, Game Developement, Software Developement, Web Developement**
+
 
 - 📫 to reach me ➡️ **williamchapronpro@gmail.com**
 
