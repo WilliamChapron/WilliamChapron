@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm William Developer</h1>
 <h3 align="center">A passionate Generalist developer from France</h3>
 
-- 🔭 I’m currently working on [DirectX12 Game Engine & Unreal Engine 5 project](williamdeveloper.com)
-
 - 🌱 I’m currently learning **various graphics API & 2D/3D games environnement**
 
 - 👯 I’m looking for **UI/UX designer & front-end developer**
 
 - 👨‍💻 All of my projects are available at [williamdeveloper.com](williamdeveloper.com)
 
-- 💬 Ask me about **C++, React, Express, Js, C#**
+- 💬 Ask me about **C/C++, C#, Javascript, Game Developement, Software Developement, Web Developement**
 
-- 📫 How to reach me **williamchapronpro@gmail.com**
+- 📫 to reach me ➡️ **williamchapronpro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
