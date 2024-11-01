@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Developer</h1>
 <h3 align="center">A passionate Generalist developer from France</h3>
 
-- 💬 Ask me about **C/C++, C#, Javascript, Game Developement, Software Developement, Web Developement**
+- 💬 Ask me about **C/C++, C#, Javascript, 3D Sofware & Game Programming**
   
 - 🖥️ I’m currently learning **various graphics 2D/3D environnement for 3D Application & Games Developement**
 
