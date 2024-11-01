@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **C/C++, C#, Javascript, 3D Sofware & Game Programming**
   
-- 🖥️  I’m currently learning **3D PROGRAMMING**, I aspire to become a 3D engine programmer.**
+- 🖥️  I’m currently learning **3D PROGRAMMING**, I aspire to become a 3D engine programmer.
 
 - 🌐 I also create Desktop and Web Applications with **.NET Framework, React/Express js, Electron**
 
