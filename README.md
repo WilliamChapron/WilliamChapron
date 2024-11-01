@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Developer</h1>
-<h3 align="center">A passionate Generalist developer from France</h3>
+<h3 align="center">A passionate 3D Programmer from France</h3>
 
 - 💬 Ask me about **C/C++, C#, Javascript, 3D Sofware & Game Programming**
   
