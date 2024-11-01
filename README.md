@@ -3,11 +3,9 @@
 
 - 💬 Ask me about **C/C++, C#, Javascript, 3D Sofware & Game Programming**
   
-- 🖥️ I’m currently learning **various graphics 2D/3D environnement for 3D Application & Games Developement**
+- 🖥️  I’m currently learning **3D PROGRAMMING**, I aspire to become a 3D engine programmer.**
 
-- 🌐 I also create Desktop and Web Applications with **.NET Framework and Electron**
-
-- 👯 I’m looking for **UI/UX designer & front-end developer**
+- 🌐 I also create Desktop and Web Applications with **.NET Framework, React/Express js, Electron**
 
 - 👨‍💻 All of my projects are available at [williamdeveloper.com](williamdeveloper.com)
 
