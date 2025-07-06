@@ -3,11 +3,11 @@
 
 - 💬 Ask me about **C/C++, C#, Javascript, 3D Sofware & Game Programming**
   
-- 🖥️  I’m currently learning **3D PROGRAMMING**, I aspire to become a 3D engine programmer.
+- 🖥️  I’m currently learning **3D PROGRAMMING**, I aspire to become a 3D software programmer.
 
-- 🌐 I also create Desktop and Web Applications with **.NET Framework, React/Express js, Electron**
+- 🌐 I also create Desktop and Web Applications with **.NET Framework, .NET Core, React/Express js**
 
-- 👨‍💻 All of my projects are available at [williamdeveloper.com](williamdeveloper.com)
+- 👨‍💻 Some of my projects are available at [williamdeveloper.com](williamdeveloper.com)
 
 
 
