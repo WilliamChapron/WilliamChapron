@@ -22,14 +22,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
  <!-- OpenGL -->
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/OpenGL_logo.svg" alt="OpenGL" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3d" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft-DirectX-Logo-wordmark.svg" alt="DirectX" width="40" height="40"/>
   </a>
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nvpro-samples/nvpro-samples.github.io/master/images/cuda-logo.svg" alt="CUDA" width="40" height="40"/>
+    <img src="https://freebiesupply.com/logos/opengl-logo.svg" alt="CUDA" width="40" height="40"/>
   </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> 
