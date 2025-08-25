@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm William Developer</h1>
-<h3 align="center">A passionate 3D Programmer from France</h3>
+<h3 align="center">A passionate Software Programmer from France</h3>
 
-- 💬 Ask me about **C/C++, C#, Javascript, 3D Sofware & Game Programming**
+- 💬 Ask me about **C/C++, C#, Javascript, 2D/3D Software Programming**
   
-- 🖥️  I’m currently learning **3D PROGRAMMING**, I aspire to become a 3D software programmer.
-
-- 🌐 I also create Desktop and Web Applications with **.NET Framework, .NET Core, React/Express js**
-
 - 👨‍💻 Some of my projects are available at [williamdeveloper.com](williamdeveloper.com)
 
 
