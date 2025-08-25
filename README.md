@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.opengl.org/img/opengl_logo.png" alt="opengl" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/OpenGL_Logo.svg" alt="opengl" width="40" height="40"/> 
   </a> 
   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3d" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/DirectX_Logo.svg" alt="directx" width="40" height="40"/> 
@@ -39,11 +39,13 @@
   <a href="https://eigen.tuxfamily.org/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/1688662?s=200&v=4" alt="eigen" width="40" height="40"/> 
   </a>
+  <!-- GLSL -->
   <a href="https://www.opengl.org/documentation/glsl/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenGL_logo.svg" alt="glsl" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/GLSL-orange?logo=opengl&logoColor=white" alt="glsl" height="30"/> 
   </a>
+  <!-- HLSL -->
   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/HLSL_Logo.png" alt="hlsl" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/HLSL-0078D4?logo=microsoft&logoColor=white" alt="hlsl" height="30"/> 
   </a>
 
   <!-- Other languages -->
@@ -103,9 +105,6 @@
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-  </a>
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> 
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
