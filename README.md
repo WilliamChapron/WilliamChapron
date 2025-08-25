@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **C/C++, C#, Javascript, 2D/3D Software Programming**
   
-- 👨‍💻 Some of my projects are available at [williamdeveloper.com](williamdeveloper.com)
+- 👨‍💻 Some of my projects are available at (williamdeveloper.com)
 
 
 
