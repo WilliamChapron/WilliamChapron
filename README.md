@@ -21,15 +21,20 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/OpenGL_Logo.svg" alt="opengl" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3d" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/DirectX_Logo.svg" alt="directx" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/CUDA_logo.svg" alt="cuda" width="40" height="40"/> 
-  </a>
+ <!-- OpenGL -->
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/OpenGL_Logo.svg" alt="opengl" width="40" height="40"/> 
+</a> 
+
+<!-- DirectX -->
+<a href="https://learn.microsoft.com/en-us/windows/win32/direct3d" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/KhronosGroup/Vulkan-Docs/main/images/directx-logo.svg" alt="directx" width="40" height="40"/> 
+</a> 
+
+<!-- CUDA -->
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.png" alt="cuda" width="40" height="40"/> 
+</a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> 
   </a>
